@@ -19,7 +19,7 @@ Specific Method:
 2. **Semantics-level**: Word vector Cosine Similarity
     
     <p align="center">
-      <img src='demo.png'>
+      <img src='Demo.png'>
     </p>
 
 3. **Pragmatics-level**: Knowledge Graph
