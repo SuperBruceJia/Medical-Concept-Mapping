@@ -1,8 +1,10 @@
 # Medical-Concept-Mapping
 
-An implementation of Medical-term Concept Mapping via three-levels: Syntax-Semantics-Pragmatics.
+An implementation of **Medical-term Concept Mapping** via three-levels: Syntax-Semantics-Pragmatics.
 
-## Introduction
+------
+
+## Method
 
 1. **Syntax-level**: Sub-word Frequency via BPE Algorithm 
 
@@ -10,17 +12,29 @@ An implementation of Medical-term Concept Mapping via three-levels: Syntax-Seman
 
 3. **Pragmatics-level**: Knowledge Graph
 
+    <p align="center">
+      <img src='Method.png'>
+    </p>
+
+------
+
 ## Results
 
 **96.81% Accuracy** on the Standard and Synonym Medical Terms
+
+------
 
 ## Prerequisites
 
 The pre-trained word vectors can be downloaded [here](https://drive.google.com/file/d/1b_D5OQHm1XFlHKcMaWUJ8ABiQNPM0meS/view?usp=sharing).
 
+------
+
 ## Presentation
 
 A part presentation of this work can be downloaded [here](https://github.com/SuperBruceJia/paper-reading/raw/master/NLP-field/Sub-words/Concept-Matching-Task.pptx).
+
+------
 
 ## Acknowledgement
 
