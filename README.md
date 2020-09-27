@@ -6,14 +6,26 @@ An implementation of **Medical-term Concept Mapping** via three-levels: Syntax-S
 
 ## Method
 
+Overall Method is shown below:
+
+<p align="center">
+  <img src='Method.png'>
+</p>
+
+Specific Method:
+
 1. **Syntax-level**: Sub-word Frequency via BPE Algorithm 
 
 2. **Semantics-level**: Word vector Cosine Similarity
+    
+    <p align="center">
+      <img src='demo.png'>
+    </p>
 
 3. **Pragmatics-level**: Knowledge Graph
 
     <p align="center">
-      <img src='Method.png'>
+      <img src='Knowledge-Graph.png'>
     </p>
 
 ------
