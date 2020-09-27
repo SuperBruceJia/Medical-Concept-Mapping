@@ -44,7 +44,7 @@ The pre-trained word vectors can be downloaded [here](https://drive.google.com/f
 
 ## Presentation
 
-A part presentation of this work can be downloaded [here](https://github.com/SuperBruceJia/paper-reading/raw/master/NLP-field/Sub-words/Concept-Matching-Task.pptx).
+A presentation of this work can be downloaded [here](https://github.com/SuperBruceJia/paper-reading/raw/master/NLP-field/Sub-words/Concept-Matching-Task.pptx).
 
 ------
 
