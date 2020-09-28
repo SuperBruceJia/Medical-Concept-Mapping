@@ -40,6 +40,8 @@ Specific Method:
 
 The pre-trained word vectors can be downloaded [here](https://drive.google.com/file/d/1b_D5OQHm1XFlHKcMaWUJ8ABiQNPM0meS/view?usp=sharing).
 
+***I'm afraid the data making the sub-word list is unavailable as a result of Philips Intellectual Property and Privacy.***
+
 ------
 
 ## Presentation
@@ -50,4 +52,4 @@ A presentation of this work can be downloaded [here](https://github.com/SuperBru
 
 ## Acknowledgement
 
-This work was done when I was in Philips Research Shanghai.
+This work was done when I was in **Philips Research Shanghai**.
