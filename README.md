@@ -30,6 +30,34 @@ Specific Method:
 
 ------
 
+## Usage Demo
+
+1. Get Sub-word (Frequency) list
+
+```python
+$ TEP-1-get-subword.py
+```
+
+2. Get Standard and Synonym Medical Terms
+
+```python
+$ STEP-2-get-Knowledge-Graph.py
+```
+
+3. Run the Concept Mapping main Function
+
+```python
+$ main.py
+```
+
+4. To evaluate, run the Evaluation Function
+
+```python
+evaluate.py
+```
+
+------
+
 ## Results
 
 **96.81% Accuracy** on the Standard and Synonym Medical Terms
