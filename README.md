@@ -20,7 +20,7 @@ Specific Method:
       <img src='Demo.png'>
     </p>
 
-3. **Pragmatics-level**: Knowledge Graph
+3. **Pragmatics-level**: Knowledge Graph (JSON Format)
 
     <p align="center">
       <img src='Knowledge-Graph.png'>
