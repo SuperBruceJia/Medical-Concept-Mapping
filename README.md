@@ -34,25 +34,25 @@ Specific Method:
 
 1. Get Sub-word (Frequency) list
 
-```python
+```text
 $ TEP-1-get-subword.py
 ```
 
 2. Get Standard and Synonym Medical Terms
 
-```python
+```text
 $ STEP-2-get-Knowledge-Graph.py
 ```
 
 3. Run the Concept Mapping main Function
 
-```python
+```text
 $ main.py
 ```
 
 4. To evaluate, run the Evaluation Function
 
-```python
+```text
 evaluate.py
 ```
 
