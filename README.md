@@ -2,8 +2,6 @@
 
 An implementation of **Medical-term Concept Mapping** via three-levels: Syntax-Semantics-Pragmatics.
 
-------
-
 ## Method
 
 Overall Method is shown below:
@@ -27,8 +25,6 @@ Specific Method:
     <p align="center">
       <img src='Knowledge-Graph.png'>
     </p>
-
-------
 
 ## Usage Demo
 
@@ -56,13 +52,9 @@ $ main.py
 $ evaluate.py
 ```
 
-------
-
 ## Results
 
 **96.81% Accuracy** on the Standard and Synonym Medical Terms
-
-------
 
 ## Prerequisites
 
@@ -70,13 +62,9 @@ The pre-trained word vectors can be downloaded [here](https://drive.google.com/f
 
 ***I'm afraid the data making the sub-word list is unavailable as a result of Philips Intellectual Property and Privacy.***
 
-------
-
 ## Presentation
 
 A presentation of this work can be downloaded [here](https://github.com/SuperBruceJia/paper-reading/raw/master/NLP-field/Sub-words/Concept-Matching-Task.pptx).
-
-------
 
 ## Acknowledgement
 
