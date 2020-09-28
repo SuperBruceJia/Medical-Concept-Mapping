@@ -53,7 +53,7 @@ $ main.py
 4. To evaluate, run the Evaluation Function
 
 ```text
-evaluate.py
+$ evaluate.py
 ```
 
 ------
