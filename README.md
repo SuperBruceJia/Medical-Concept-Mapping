@@ -35,7 +35,7 @@ Specific Method:
 1. Get Sub-word (Frequency) list
 
 ```text
-$ TEP-1-get-subword.py
+$ STEP-1-get-subword.py
 ```
 
 2. Get Standard and Synonym Medical Terms
