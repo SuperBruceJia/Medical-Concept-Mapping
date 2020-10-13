@@ -60,7 +60,7 @@ $ evaluate.py
 
 The pre-trained word vectors can be downloaded [here](https://drive.google.com/file/d/1b_D5OQHm1XFlHKcMaWUJ8ABiQNPM0meS/view?usp=sharing).
 
-***I'm afraid the data making the sub-word list is unavailable as a result of Philips Intellectual Property and Privacy.***
+***I'm afraid that the data making the sub-word list is unavailable as a result of Philips Intellectual Property (IP) and Privacy.***
 
 ## Presentation
 
