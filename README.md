@@ -2,6 +2,10 @@
 
 An implementation of **Medical Concept Mapping** via three levels: **Syntax**-**Semantics**-**Pragmatics**.
 
+## Abstract
+
+Towards building an Artificial Intelligence-oriented (AI) healthcare system, precise mapping of medical concepts is highly demanded. Traditional works decoded medical terms lacking the consideration of a comprehensive overview of Natural Language Processing (NLP). However, for downstream NLP tasks, an analysis from different perspectives grows popular. In this work, a novel approach of medical concept mapping was presented from three aspects of NLP analysis, i.e., syntax, semantics, and pragmatics levels. Via the Byte Pair Encoding (BPE) Algorithm, the subwords' representations were introduced to learn the compounding and transliteration of medical concepts. Then, knowledge graph took advantages of human common sense in the perspective of pragmatics analysis. The final pre-trained word embedding and cosine similarity were utilized to map the input to the standard term which retain the maximum similarity. From the above three levels, the proposed approach has achieved compelling performance in the Chinese medical dataset, 96.81% accuracy. It indicated that our proposed method was able to handle the challenge of medical concept mapping, which can indirectly promoted the performance of healthcare AI systems.
+
 ## Method
 
 Overall Method is shown below:
