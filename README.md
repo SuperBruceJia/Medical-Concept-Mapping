@@ -1,4 +1,4 @@
-# Medical-Concept-Mapping
+# Medical Concept Mapping
 
 An implementation of **Medical Concept Mapping** via three levels: **Syntax**-**Semantics**-**Pragmatics**.
 
