@@ -64,8 +64,6 @@ $ evaluate.py
 
 The pre-trained word vectors can be downloaded [here](https://drive.google.com/file/d/19UoQOS0MCefIiqTqpQAzFePJdsRnmpuC/view?usp=sharing).
 
-***I'm afraid that the data making the sub-word list is unavailable as a result of Philips Intellectual Property (IP) and Privacy.***
-
 ## Presentation
 
 A presentation of this work can be downloaded [here](https://github.com/SuperBruceJia/paper-reading/raw/master/NLP-field/Sub-words/Concept-Matching-Task.pptx).
