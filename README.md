@@ -64,7 +64,7 @@ $ evaluate.py
 
 The pre-trained word vectors can be downloaded [here](https://drive.google.com/file/d/1Rfe7QObJnaOUYK3cIQ6BXLyuJg-5516Y/view?usp=sharing).
 
-The data used for generating the sub-word list can be downloaded [here](https://drive.google.com/drive/folders/189J09QtpoAwrM9YUw1KGMaZSE6g_ukOc?usp=sharing).
+The data used for generating the sub-word list can be downloaded [here](https://drive.google.com/drive/folders/19DYs7xQ449DE5QqOQkeGP8fc4Q62iVG7?usp=sharing).
 
 ## Presentation
 
